@@ -1,2 +1,2 @@
 # FreePalestineThemeOMP
-My Free Palestine Terminal Theme for OMP
+My Free Palestine Terminal Theme for oh-my-posh
